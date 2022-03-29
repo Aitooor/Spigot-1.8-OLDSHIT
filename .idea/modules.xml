@@ -2,9 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/nasgarspigot-server/NasgarSpigot.iml" filepath="$PROJECT_DIR$/nasgarspigot-server/NasgarSpigot.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/NasgarSpigot-1.8.iml" filepath="$PROJECT_DIR$/.idea/NasgarSpigot-1.8.iml" />
-      <module fileurl="file://$PROJECT_DIR$/cadiaspigot-api/cadiaspigot-api.iml" filepath="$PROJECT_DIR$/cadiaspigot-api/cadiaspigot-api.iml" />
-      <module fileurl="file://$PROJECT_DIR$/cadiaspigot-server/cadiaspigot-server.iml" filepath="$PROJECT_DIR$/cadiaspigot-server/cadiaspigot-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/nasgarspigot-api/nasgarspigot-api.iml" filepath="$PROJECT_DIR$/nasgarspigot-api/nasgarspigot-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/nasgarspigot-server/nasgarspigot-server.iml" filepath="$PROJECT_DIR$/nasgarspigot-server/nasgarspigot-server.iml" />
     </modules>
   </component>
 </project>

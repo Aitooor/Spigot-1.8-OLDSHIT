@@ -7,14 +7,17 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="cadiaspigot-server" />
-        <module name="cadiaspigot-api" />
+        <module name="NasgarSpigot" />
+        <module name="nasgarspigot-api" />
+        <module name="nasgarspigot-server" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="cadiaspigot-api" target="1.8" />
       <module name="cadiaspigot-server" target="1.8" />
+      <module name="NasgarSpigot" target="1.8" />
       <module name="NasgarSpigot-1.8" target="1.5" />
+      <module name="nasgarspigot-api" target="1.8" />
+      <module name="nasgarspigot-server" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
