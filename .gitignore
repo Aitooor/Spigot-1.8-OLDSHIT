@@ -1,3 +1,2 @@
-/.idea
-/nasgarspigot-server/target
-/nasgarspigot-api/target
+/target/
+/.idea/
