@@ -19,7 +19,7 @@ public class VersionCommand extends BukkitCommand {
     public boolean execute(CommandSender sender, String currentAlias, String[] args) {
         if (!testPermission(sender)) return true;
 
-        sender.sendMessage(ChatColor.translateAlternateColorCodes('&', "&bThis server is running &fCadiaMC Spigot &bby &fFckml&b."));
+        sender.sendMessage(ChatColor.translateAlternateColorCodes('&', "&7This server is running &aNasgarSpigot-1.8&7."));
         return true;
     }
 }
